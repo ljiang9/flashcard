@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {"front": "apple", "back": "苹果", "streak": 0, "seen": 0},
+    {"front": "book", "back": "书", "streak": 0, "seen": 0},
+    {"front": "cat", "back": "猫", "streak": 0, "seen": 0},
+    {"front": "dog", "back": "狗", "streak": 0, "seen": 0},
+    {"front": "elephant", "back": "大象", "streak": 0, "seen": 0},
+    {"front": "flower", "back": "花", "streak": 0, "seen": 0},
+    {"front": "garden", "back": "花园", "streak": 0, "seen": 0},
+    {"front": "house", "back": "房子", "streak": 0, "seen": 0},
+    {"front": "island", "back": "岛", "streak": 0, "seen": 0},
+    {"front": "jacket", "back": "夹克", "streak": 0, "seen": 0}
+  ]
+}
